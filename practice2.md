@@ -4,3 +4,9 @@
 ~~~~ 
 wc -l hightemp.txt
 ~~~~
+
+### 11. タブをスペースに置換
+~~~~
+expand -t 1 hightemp.txt
+~~~~
+
